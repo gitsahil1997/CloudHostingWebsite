@@ -85,6 +85,10 @@
 .text-primary {
   color: var(--primary-color);
 }
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
 
 /* textSize */
 .lead {
